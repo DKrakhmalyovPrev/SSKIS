@@ -1,0 +1,3 @@
+# prolog
+print('#pragma once')
+
