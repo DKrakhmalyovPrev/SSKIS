@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/denis/SSKIS/B/main.cpp
+main.h
+/home/denis/SSKIS/B/main.h
+
+/home/denis/SSKIS/B/main.h
+vector
+-
+cmath
+-
+stdio.h
+-
+iostream
+-
+ctime
+-
+fstream
+-
+map
+-
+index.h
+/home/denis/SSKIS/B/index.h
+
+A/index.h
+

@@ -1,0 +1,3 @@
+/home/denis/SSKIS/CMakeFiles/rebuild_cache.dir
+/home/denis/SSKIS/CMakeFiles/edit_cache.dir
+/home/denis/SSKIS/CMakeFiles/main.dir
